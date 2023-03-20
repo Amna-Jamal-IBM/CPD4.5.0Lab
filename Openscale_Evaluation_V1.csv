@@ -1,0 +1,11 @@
+EMPID,STATUS,TITLE,DEPARTMENT,FUNCTION,DIVISION,UNION_STATUS,EMPLOYMENT_CATEGORY,AGE,GENERATION,PAY_SCALE_GROUP,GENDER,ETHNIC_ORIGIN,LAST_PERFORMANCE_RATING,LAST_POTENTIAL_RATING,EMPLOYEE_PAY_FREQUENCY,EMPLOYEE_PAY_BASIS,MANAGER_ID
+2038,Active,Merchandiser,Sales-East,Sales,Sales,Non-Union,Regular Employee PT,21,Generation Y,Group C,Female,W,Too New,Not assigned,Bi-Weekly,Hourly,S2060
+2045,Active,Laborer,Sales-Central,Sales,Sales,Union,Regular Employee PT,56,Generation Y,Group C,Male,H,Successfully Meets Expectations,Not assigned,Bi-Weekly,Daily,S682
+2052,Active,Driver,Sales-Central,Sales,Sales,Non-Union,Regular Employee FT,21,Generation Y,Group C,Male,B,No Rating,No Rating,Bi-Weekly,Hourly,S1168
+2059,Active,Driver,Sales-Central,Sales,Sales,Union,Regular Employee PT,63,Generation Y,Not Assigned,Male,W,No Rating,No Rating,Weekly,Hourly,S2550
+2066,Active,Operator,Sales-Central,Sales,Sales,Union,Regular Employee FT,43,Generation Y,Not Assigned,Male,W,No Rating,No Rating,Bi-Weekly,Hourly,S2709
+2073,Active,Operator,Sales-East,Sales,Sales,Non-Union,Regular Employee PT,21,Generation Y,Group C,Female,B,Does Not Meet,Not assigned,Bi-Weekly,Daily,S2412
+2080,Active,Staff Associate,Sales-West,Sales,Sales,Union,Regular Employee FT,43,Generation Y,Group C,Male,U,No Rating,No Rating,Weekly,Hourly,S3202
+2087,Active,Laborer,Sales-East,Sales,Sales,Non-Union,Regular Employee PT,21,Generation Y,Group C,Male,B,Developing/Meets Some,Not assigned,Bi-Weekly,Daily,S2506
+2094,Active,Driver,Sales-West,Sales,Sales,Union,Regular Employee FT,18,Generation Y,Group C,Female,X,No Rating,Not assigned,Bi-Weekly,Hourly,S2632
+2101,Active,Driver,Sales-East,Sales,Sales,Non-Union,Regular Employee FT,33,Generation Y,Group C,Male,W,Developing/Meets Some,Not assigned,Weekly,Hourly,S3497
